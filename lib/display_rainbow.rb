@@ -1,4 +1,5 @@
 # Write your #display_rainbow method here
+puts "Name: #{bob[0]}, Age: #{bob[1]}, Occupation: #{bob[2]}"
 def print_business_card(person)
   puts "Name: #{person[0]}, Age: #{person[1]}, Occupation: #{person[2]}"
   puts "Contact: #{person[3]}"
